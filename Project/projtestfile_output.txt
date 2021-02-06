@@ -1,0 +1,460 @@
+--> 0 HEAD 
+<-- 0|HEAD|Y|
+--> 1 SOUR Family Echo
+<-- 1 SOUR|N|Family Echo
+--> 2 WWW http://www.familyecho.com/
+<-- 2 WWW|N|http://www.familyecho.com/
+--> 1 FILE My Family
+<-- 1 FILE|N|My Family
+--> 1 DATE 5 SEP 2020
+<-- 1 DATE|N|5 SEP 2020
+--> 1 DEST ANSTFILE
+<-- 1 DEST|N|ANSTFILE
+--> 1 GEDC
+<-- 1 GEDC|N|
+--> 2 VERS 5.5.1
+<-- 2 VERS|N|5.5.1
+--> 2 FORM LINEAGE-LINKED
+<-- 2 FORM|N|LINEAGE-LINKED
+--> 1 SUBM @I1@
+<-- 1 SUBM|N|@I1@
+--> 2 NAME jankij
+<-- 2 NAME|N|jankij
+--> 1 SUBN
+<-- 1 SUBN|N|
+--> 1 CHAR UTF-8
+<-- 1 CHAR|N|UTF-8
+--> 0 @I1@ INDI
+<-- 0|INDI|Y|@I1@
+--> 1 NAME Ranvijay /Rajput/
+<-- 1|NAME|Y|Ranvijay /Rajput/
+--> 2 GIVN Ranvijay
+<-- 2 GIVN|N|Ranvijay
+--> 2 SURN Rajput
+<-- 2 SURN|N|Rajput
+--> 2 _MARNM Rajput
+<-- 2 _MARNM|N|Rajput
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 11 JUN 1939
+<-- 2|DATE|Y|11 JUN 1939
+--> 1 FAMS @F1@
+<-- 1|FAMS|Y|@F1@
+--> 0 @I2@ INDI
+<-- 0|INDI|Y|@I2@
+--> 1 NAME Janu /Patel/
+<-- 1|NAME|Y|Janu /Patel/
+--> 2 GIVN Janu
+<-- 2 GIVN|N|Janu
+--> 2 SURN Patel
+<-- 2 SURN|N|Patel
+--> 2 _MARNM Rajput
+<-- 2 _MARNM|N|Rajput
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 26 MAR 1941
+<-- 2|DATE|Y|26 MAR 1941
+--> 1 FAMS @F1@
+<-- 1|FAMS|Y|@F1@
+--> 0 @I3@ INDI
+<-- 0|INDI|Y|@I3@
+--> 1 NAME Yuvi /Rajput/
+<-- 1|NAME|Y|Yuvi /Rajput/
+--> 2 GIVN Yuvi
+<-- 2 GIVN|N|Yuvi
+--> 2 SURN Rajput
+<-- 2 SURN|N|Rajput
+--> 2 _MARNM Rajput
+<-- 2 _MARNM|N|Rajput
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 12 JUN 1961
+<-- 2|DATE|Y|12 JUN 1961
+--> 1 DEAT Y
+<-- 1|DEAT|Y|Y
+--> 2 DATE 29 SEP 1988
+<-- 2|DATE|Y|29 SEP 1988
+--> 1 FAMS @F2@
+<-- 1|FAMS|Y|@F2@
+--> 1 FAMC @F1@
+<-- 1|FAMC|Y|@F1@
+--> 0 @I4@ INDI
+<-- 0|INDI|Y|@I4@
+--> 1 NAME Yana /Choti/
+<-- 1|NAME|Y|Yana /Choti/
+--> 2 GIVN Yana
+<-- 2 GIVN|N|Yana
+--> 2 SURN Choti
+<-- 2 SURN|N|Choti
+--> 2 _MARNM Rajput
+<-- 2 _MARNM|N|Rajput
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 23 OCT 1962
+<-- 2|DATE|Y|23 OCT 1962
+--> 1 FAMS @F2@
+<-- 1|FAMS|Y|@F2@
+--> 1 FAMS @F3@
+<-- 1|FAMS|Y|@F3@
+--> 0 @I5@ INDI
+<-- 0|INDI|Y|@I5@
+--> 1 NAME Prince /Rajput/
+<-- 1|NAME|Y|Prince /Rajput/
+--> 2 GIVN Prince
+<-- 2 GIVN|N|Prince
+--> 2 SURN Rajput
+<-- 2 SURN|N|Rajput
+--> 2 _MARNM Rajput
+<-- 2 _MARNM|N|Rajput
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 31 JAN 1963
+<-- 2|DATE|Y|31 JAN 1963
+--> 1 FAMS @F4@
+<-- 1|FAMS|Y|@F4@
+--> 1 FAMS @F5@
+<-- 1|FAMS|Y|@F5@
+--> 1 FAMC @F1@
+<-- 1|FAMC|Y|@F1@
+--> 0 @I6@ INDI
+<-- 0|INDI|Y|@I6@
+--> 1 NAME Priya /Bashu/
+<-- 1|NAME|Y|Priya /Bashu/
+--> 2 GIVN Priya
+<-- 2 GIVN|N|Priya
+--> 2 SURN Bashu
+<-- 2 SURN|N|Bashu
+--> 2 _MARNM Rajput
+<-- 2 _MARNM|N|Rajput
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 16 NOV 1963
+<-- 2|DATE|Y|16 NOV 1963
+--> 1 FAMS @F5@
+<-- 1|FAMS|Y|@F5@
+--> 0 @I7@ INDI
+<-- 0|INDI|Y|@I7@
+--> 1 NAME Priyanka /Godhani/
+<-- 1|NAME|Y|Priyanka /Godhani/
+--> 2 GIVN Priyanka
+<-- 2 GIVN|N|Priyanka
+--> 2 SURN Godhani
+<-- 2 SURN|N|Godhani
+--> 2 _MARNM Rajput
+<-- 2 _MARNM|N|Rajput
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 28 DEC 1963
+<-- 2|DATE|Y|28 DEC 1963
+--> 1 FAMS @F4@
+<-- 1|FAMS|Y|@F4@
+--> 0 @I8@ INDI
+<-- 0|INDI|Y|@I8@
+--> 1 NAME Bharat /Rajput/
+<-- 1|NAME|Y|Bharat /Rajput/
+--> 2 GIVN Bharat
+<-- 2 GIVN|N|Bharat
+--> 2 SURN Rajput
+<-- 2 SURN|N|Rajput
+--> 2 _MARNM Rajput
+<-- 2 _MARNM|N|Rajput
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 10 APR 1988
+<-- 2|DATE|Y|10 APR 1988
+--> 1 FAMC @F5@
+<-- 1|FAMC|Y|@F5@
+--> 0 @I9@ INDI
+<-- 0|INDI|Y|@I9@
+--> 1 NAME Jesica /Rajput/
+<-- 1|NAME|Y|Jesica /Rajput/
+--> 2 GIVN Jesica
+<-- 2 GIVN|N|Jesica
+--> 2 SURN Rajput
+<-- 2 SURN|N|Rajput
+--> 2 _MARNM Rajput
+<-- 2 _MARNM|N|Rajput
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 12 SEP 1990
+<-- 2|DATE|Y|12 SEP 1990
+--> 1 FAMC @F5@
+<-- 1|FAMC|Y|@F5@
+--> 0 @I10@ INDI
+<-- 0|INDI|Y|@I10@
+--> 1 NAME Virat /Rajput/
+<-- 1|NAME|Y|Virat /Rajput/
+--> 2 GIVN Virat
+<-- 2 GIVN|N|Virat
+--> 2 SURN Rajput
+<-- 2 SURN|N|Rajput
+--> 2 _MARNM Rajput
+<-- 2 _MARNM|N|Rajput
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 21 JUL 2005
+<-- 2|DATE|Y|21 JUL 2005
+--> 1 FAMC @F4@
+<-- 1|FAMC|Y|@F4@
+--> 0 @I11@ INDI
+<-- 0|INDI|Y|@I11@
+--> 1 NAME Ritik /Rajput/
+<-- 1|NAME|Y|Ritik /Rajput/
+--> 2 GIVN Ritik
+<-- 2 GIVN|N|Ritik
+--> 2 SURN Rajput
+<-- 2 SURN|N|Rajput
+--> 2 _MARNM Rajput
+<-- 2 _MARNM|N|Rajput
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 7 OCT 1990
+<-- 2|DATE|Y|7 OCT 1990
+--> 1 FAMC @F2@
+<-- 1|FAMC|Y|@F2@
+--> 0 @I12@ INDI
+<-- 0|INDI|Y|@I12@
+--> 1 NAME Qin /Rajput/
+<-- 1|NAME|Y|Qin /Rajput/
+--> 2 GIVN Qin
+<-- 2 GIVN|N|Qin
+--> 2 SURN Rajput
+<-- 2 SURN|N|Rajput
+--> 2 _MARNM Rajput
+<-- 2 _MARNM|N|Rajput
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 25 AUG 2001
+<-- 2|DATE|Y|25 AUG 2001
+--> 1 FAMC @F2@
+<-- 1|FAMC|Y|@F2@
+--> 0 @I13@ INDI
+<-- 0|INDI|Y|@I13@
+--> 1 NAME Yuvaraj /Amabi/
+<-- 1|NAME|Y|Yuvaraj /Amabi/
+--> 2 GIVN Yuvaraj
+<-- 2 GIVN|N|Yuvaraj
+--> 2 SURN Amabi
+<-- 2 SURN|N|Amabi
+--> 2 _MARNM Amabi
+<-- 2 _MARNM|N|Amabi
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 9 AUG 1960
+<-- 2|DATE|Y|9 AUG 1960
+--> 1 FAMS @F3@
+<-- 1|FAMS|Y|@F3@
+--> 0 @I14@ INDI
+<-- 0|INDI|Y|@I14@
+--> 1 NAME Irak /Rai/
+<-- 1|NAME|Y|Irak /Rai/
+--> 2 GIVN Irak
+<-- 2 GIVN|N|Irak
+--> 2 SURN Rai
+<-- 2 SURN|N|Rai
+--> 2 _MARNM Amabi
+<-- 2 _MARNM|N|Amabi
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 9 SEP 2003
+<-- 2|DATE|Y|9 SEP 2003
+--> 1 FAMC @F3@
+<-- 1|FAMC|Y|@F3@
+--> 0 @I15@ INDI
+<-- 0|INDI|Y|@I15@
+--> 1 NAME Nishit /Rajput/
+<-- 1|NAME|Y|Nishit /Rajput/
+--> 2 GIVN Nishit
+<-- 2 GIVN|N|Nishit
+--> 2 SURN Rajput
+<-- 2 SURN|N|Rajput
+--> 2 _MARNM Rajput
+<-- 2 _MARNM|N|Rajput
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 17 SEP 1968
+<-- 2|DATE|Y|17 SEP 1968
+--> 1 FAMS @F6@
+<-- 1|FAMS|Y|@F6@
+--> 1 FAMC @F1@
+<-- 1|FAMC|Y|@F1@
+--> 0 @I16@ INDI
+<-- 0|INDI|Y|@I16@
+--> 1 NAME Nisha /Khan/
+<-- 1|NAME|Y|Nisha /Khan/
+--> 2 GIVN Nisha
+<-- 2 GIVN|N|Nisha
+--> 2 SURN Khan
+<-- 2 SURN|N|Khan
+--> 2 _MARNM Rajput
+<-- 2 _MARNM|N|Rajput
+--> 1 SEX F
+<-- 1|SEX|Y|F
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 8 SEP 1970
+<-- 2|DATE|Y|8 SEP 1970
+--> 1 FAMS @F6@
+<-- 1|FAMS|Y|@F6@
+--> 0 @I17@ INDI
+<-- 0|INDI|Y|@I17@
+--> 1 NAME Nova /Rajput/
+<-- 1|NAME|Y|Nova /Rajput/
+--> 2 GIVN Nova
+<-- 2 GIVN|N|Nova
+--> 2 SURN Rajput
+<-- 2 SURN|N|Rajput
+--> 2 _MARNM Rajput
+<-- 2 _MARNM|N|Rajput
+--> 1 SEX M
+<-- 1|SEX|Y|M
+--> 1 BIRT
+<-- 1|BIRT|Y|
+--> 2 DATE 8 MAY 1997
+<-- 2|DATE|Y|8 MAY 1997
+--> 1 FAMC @F6@
+<-- 1|FAMC|Y|@F6@
+--> 0 @F1@ FAM
+<-- 0|FAM|Y|@F1@
+--> 1 HUSB @I1@
+<-- 1|HUSB|Y|@I1@
+--> 1 WIFE @I2@
+<-- 1|WIFE|Y|@I2@
+--> 1 CHIL @I3@
+<-- 1|CHIL|Y|@I3@
+--> 1 CHIL @I5@
+<-- 1|CHIL|Y|@I5@
+--> 1 CHIL @I15@
+<-- 1|CHIL|Y|@I15@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 4 JUL 1960
+<-- 2|DATE|Y|4 JUL 1960
+--> 2 PLAC Hirana
+<-- 2 PLAC|N|Hirana
+--> 1 _CURRENT Y
+<-- 1 _CURRENT|N|Y
+--> 0 @F2@ FAM
+<-- 0|FAM|Y|@F2@
+--> 1 HUSB @I3@
+<-- 1|HUSB|Y|@I3@
+--> 1 WIFE @I4@
+<-- 1|WIFE|Y|@I4@
+--> 1 CHIL @I11@
+<-- 1|CHIL|Y|@I11@
+--> 1 CHIL @I12@
+<-- 1|CHIL|Y|@I12@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 7 APR 1985
+<-- 2|DATE|Y|7 APR 1985
+--> 2 PLAC Amreli
+<-- 2 PLAC|N|Amreli
+--> 1 EVEN
+<-- 1 EVEN|N|
+--> 2 TYPE Ending
+<-- 2 TYPE|N|Ending
+--> 1 _CURRENT N
+<-- 1 _CURRENT|N|N
+--> 0 @F3@ FAM
+<-- 0|FAM|Y|@F3@
+--> 1 HUSB @I13@
+<-- 1|HUSB|Y|@I13@
+--> 1 WIFE @I4@
+<-- 1|WIFE|Y|@I4@
+--> 1 CHIL @I14@
+<-- 1|CHIL|Y|@I14@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 11 SEP 1993
+<-- 2|DATE|Y|11 SEP 1993
+--> 2 PLAC Gorasur
+<-- 2 PLAC|N|Gorasur
+--> 1 _CURRENT Y
+<-- 1 _CURRENT|N|Y
+--> 0 @F4@ FAM
+<-- 0|FAM|Y|@F4@
+--> 1 HUSB @I5@
+<-- 1|HUSB|Y|@I5@
+--> 1 WIFE @I7@
+<-- 1|WIFE|Y|@I7@
+--> 1 CHIL @I10@
+<-- 1|CHIL|Y|@I10@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 5 NOV 2000
+<-- 2|DATE|Y|5 NOV 2000
+--> 2 PLAC Malpra
+<-- 2 PLAC|N|Malpra
+--> 1 _CURRENT Y
+<-- 1 _CURRENT|N|Y
+--> 0 @F5@ FAM
+<-- 0|FAM|Y|@F5@
+--> 1 HUSB @I5@
+<-- 1|HUSB|Y|@I5@
+--> 1 WIFE @I6@
+<-- 1|WIFE|Y|@I6@
+--> 1 CHIL @I8@
+<-- 1|CHIL|Y|@I8@
+--> 1 CHIL @I9@
+<-- 1|CHIL|Y|@I9@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 12 OCT 1987
+<-- 2|DATE|Y|12 OCT 1987
+--> 2 PLAC Adatala
+<-- 2 PLAC|N|Adatala
+--> 1 DIV
+<-- 1|DIV|Y|
+--> 2 DATE 18 SEP 1996
+<-- 2|DATE|Y|18 SEP 1996
+--> 1 _CURRENT N
+<-- 1 _CURRENT|N|N
+--> 0 @F6@ FAM
+<-- 0|FAM|Y|@F6@
+--> 1 HUSB @I15@
+<-- 1|HUSB|Y|@I15@
+--> 1 WIFE @I16@
+<-- 1|WIFE|Y|@I16@
+--> 1 CHIL @I17@
+<-- 1|CHIL|Y|@I17@
+--> 1 MARR
+<-- 1|MARR|Y|
+--> 2 DATE 9 FEB 1993
+<-- 2|DATE|Y|9 FEB 1993
+--> 2 PLAC Khopala
+<-- 2 PLAC|N|Khopala
+--> 1 _CURRENT Y
+<-- 1 _CURRENT|N|Y
+--> 0 TRLR
+<-- 0|TRLR|Y|
